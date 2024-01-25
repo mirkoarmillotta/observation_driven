@@ -1,6 +1,6 @@
 # Observation driven models for discrete-valued time series
 
-Replication code and relative plots for simulations and data analysis of Armillotta M., Luati A. and Lupparelli M. (2021+). Observation driven models for discrete-valued time series.
+Replication code and relative plots for simulations and data analysis of Armillotta M., Luati A. and Lupparelli M. (2022). Observation driven models for discrete-valued time series.
 
 The code for the simulations of Section 4.2 (and Section 2.1 of the Supplementary materials) is stored in the file "simulations.R" . The code for the model selection performed in the same Section 4.2 (and Section 2.2 of the Supplementary materials) can be found in two separated files: "model selection binomial.R" and "model selection poisson.R" .
 
